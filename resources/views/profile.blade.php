@@ -23,7 +23,7 @@
 
                 <div class="mt-6 space-y-4">
                     @foreach ([
-                    ['label' => 'NIM', 'value' => 'D11911037', 'icon' => '
+                    ['label' => 'NIM', 'value' => 'D111911037', 'icon' => '
                     <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-blue-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 7h14M5 11h14M5 15h14M5 19h14" />
                     </svg>
